@@ -27,9 +27,7 @@ A data analysis report tracking COVID-19 trends worldwide, analyzing cases, deat
 ## Installation & Usage
 
 ### Basic Setup
-1. Clone repository:
-
-[Repo](https://github.com/Nyandoya/COVID19_Tracker.git)
+1. Clone repository: [Repo](https://github.com/Nyandoya/COVID19_Tracker.git)
 
 2. Install requirements:<br>
 pip install -r requirements.txt
@@ -70,8 +68,3 @@ jupyter notebook
 3. Interactive widgets function as expected ✅
 4. CSV file loads from correct path ✅
 5. Export commands produce valid PDF/HTML ✅
-
-**Recommended Dataset Note:**  
-The analysis uses a static dataset snapshot from 2023-01-01. For updated analysis, download the latest data from Our World in Data and update the CSV file.
-
-This README provides complete setup instructions while highlighting the project's technical and analytical aspects. The notebook has been verified to run error-free when following these instructions.
